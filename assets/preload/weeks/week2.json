@@ -1,21 +1,21 @@
 {
 	"songs": [
-		["Yours Truly", "cherry", [146, 113, 253]],
-		["Feast For The Eye", "may", [146, 113, 253]],
-		["Game Time", "thomas", [146, 113, 253]]
+		["Spookeez", "spooky", [34, 51, 68]],
+		["South", "spooky", [34, 51, 68]],
+		["Monster", "monster", [34, 51, 68]]
 	],
 
 	"weekCharacters": [
-		"opponents",
-		"indy",
-		""
+		"spooky",
+		"bf",
+		"gf"
 	],
-	"weekBackground": "week2",
+	"weekBackground": "halloween",
 
-	"storyName": "Indy's Invitation",
+	"storyName": "Spooky Month",
 	"weekBefore": "week1",
 	"weekName": "Week 2",
-	"startUnlocked": false,
+	"startUnlocked": true,
 
 	"hideStoryMode": false,
 	"hideFreeplay": false
